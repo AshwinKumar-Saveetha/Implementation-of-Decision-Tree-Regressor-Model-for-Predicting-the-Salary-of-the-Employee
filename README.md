@@ -52,16 +52,19 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/cd9773be-6dcd-437f-bbe8-457674d8c1ae)
+![image](https://github.com/user-attachments/assets/58be1da8-ab91-4ebf-8976-72cae1c192fa)
 
-![image](https://github.com/user-attachments/assets/e83b856c-9f5b-4926-a1ff-2230dab0c577)
+![image](https://github.com/user-attachments/assets/1f655509-e4f8-4a00-a93d-7b3002fd3c03)
 
-![image](https://github.com/user-attachments/assets/22586ea3-a110-4515-92c2-72614804f45e)
+![image](https://github.com/user-attachments/assets/686fc30f-b9f5-40a3-972e-9030cdb7064d)
 
-![image](https://github.com/user-attachments/assets/7895bacb-14a9-446e-b682-ed4e379cddee)
+![image](https://github.com/user-attachments/assets/0a76cdb8-9ff6-4a94-9d00-4413c4cd2a1e)
 
-![image](https://github.com/user-attachments/assets/61fc6676-fc09-4b2e-87a2-46f341f5ed4f)
+![image](https://github.com/user-attachments/assets/bfdc4e99-9d04-4585-a7c9-e4b77a5798a8)
 
+![image](https://github.com/user-attachments/assets/467e6ab1-f6a6-48e4-ac06-a2bcb6ca8de1)
+
+![image](https://github.com/user-attachments/assets/c813b96a-5977-4307-8c77-8a24354b3395)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
